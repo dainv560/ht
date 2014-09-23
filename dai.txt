@@ -2,3 +2,4 @@ Create dai file
 Dai u khan
 Tiep tuc edit dai
 Edit, pull nhung khong fetch
+Them dong
