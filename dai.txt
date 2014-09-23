@@ -1,5 +1,6 @@
 Create dai file
 Dai u khan
 Tiep tuc edit dai
+Dai 
 Edit, pull nhung khong fetch
-Them dong
+Them dong nay
